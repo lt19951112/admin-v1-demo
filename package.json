@@ -29,6 +29,7 @@
     "font-awesome": "^4.7.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
+    "react-router": "^4.2.0",
     "true-case-path": "^1.0.2"
   }
 }
